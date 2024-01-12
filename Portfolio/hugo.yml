@@ -55,7 +55,7 @@ params:
     enabled: true # needs to be explicitly set
     title: Loris Lacerenza
     subtitle: "Salut l'ekip"
-    # imageUrl: "<img location>"
+    imageUrl: "home/formal-pic-small.jpg"
     imageWidth: 120
     imageHeight: 120
     imageTitle: my image
@@ -68,7 +68,7 @@ params:
 
 
   cover:
-    hidden: true # hide everywhere but not in structured data
+    hidden: false # hide everywhere but not in structured data
     hiddenInList: false # hide on list pages and home
     hiddenInSingle: false # hide on single page
 
