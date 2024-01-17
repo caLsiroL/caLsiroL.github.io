@@ -4,10 +4,12 @@ description: "Projet universitaire adaptation en 3D et en multijoueur du célèb
 dateString: Janvier - Mai 2021
 draft: false
 tags: ["Godot", "Multiplayer", "Networking", "University Project"]
-weight: 201
+weight: 205
 cover:
     image: "/projects/dixit/cover.png"
 ---
+
+## 🔗 [Github de Ark'Dixit](https://github.com/LuxemTheFez/ARKED-Dixit-GODOT)
 
 ## Introduction
 Dans le cadre de ma licence 3 nous avions un projet de 4-5 mois à réaliser. Avec 4 autre camarades nous eu la possibilité de produire une preuve de concept de numérisation en 3D du jeu de société Dixit. L'objectif derrière ce projet était tester la création d'application exploitant les capacitées de la salle Ark-Inseec, une salle de classe du futur équipée de 5 murs tactiles géants
@@ -37,3 +39,6 @@ Voici une vidéo récapitulative du projet monté et réalisé par mes soins, do
 
 
 ## Conclusion
+
+Le projet Ark'Dixit m'a permis de mettre un premier pied dans le developpement de jeu multijoueur, ce qui était quelque chose qui m'interressait beaucoup et sur lequel j'ai pris beaucoup de plaisir. Ce fut aussi une première expérience de développement de jeu en groupe.
+Pour un projet d'étudiant le projet a abouti là ou nous le voulions et j'ai pu apprendre énormement de chose à refaire ou non. Ce qui, pour moi, est une réussite.
