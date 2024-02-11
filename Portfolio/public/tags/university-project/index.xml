@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>University Project on Loris Lacerenza</title>
+    <link>https://examplesite.com/tags/university-project/</link>
+    <description>Recent content in University Project on Loris Lacerenza</description>
+    <image>
+      <title>Loris Lacerenza</title>
+      <url>https://examplesite.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://examplesite.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>fr-fr</language><atom:link href="https://examplesite.com/tags/university-project/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Jeu sérieux en réalité augmenté pour le casque Microsoft Hololens 2</title>
+      <link>https://examplesite.com/projects/geo-electrololens/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://examplesite.com/projects/geo-electrololens/</guid>
+      <description>Projet universitaire </description>
+    </item>
+    
+    <item>
+      <title>Jeu VR au gameplay asymétrique</title>
+      <link>https://examplesite.com/projects/bbvr/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://examplesite.com/projects/bbvr/</guid>
+      <description>Projet universitaire création d&amp;#39;un jeu multijoueur tower defense au gameplay asymétrique inspiré de BTD6 </description>
+    </item>
+    
+    <item>
+      <title>Numérisation du jeu de société Dixit</title>
+      <link>https://examplesite.com/projects/dixit/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://examplesite.com/projects/dixit/</guid>
+      <description>Projet universitaire adaptation en 3D et en multijoueur du célèbre jeu de société Dixit</description>
+    </item>
+    
+  </channel>
+</rss>
