@@ -2,237 +2,237 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Tags on Loris Lacerenza</title>
-    <link>https://examplesite.com/tags/</link>
+    <link>https://luxemthefez.github.io/tags/</link>
     <description>Recent content in Tags on Loris Lacerenza</description>
     <image>
       <title>Loris Lacerenza</title>
-      <url>https://examplesite.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
-      <link>https://examplesite.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+      <url>https://luxemthefez.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://luxemthefez.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <language>fr-fr</language><atom:link href="https://examplesite.com/tags/index.xml" rel="self" type="application/rss+xml" />
+    <language>fr-fr</language><atom:link href="https://luxemthefez.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>3D</title>
-      <link>https://examplesite.com/tags/3d/</link>
+      <link>https://luxemthefez.github.io/tags/3d/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://examplesite.com/tags/3d/</guid>
+      <guid>https://luxemthefez.github.io/tags/3d/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Android</title>
-      <link>https://examplesite.com/tags/android/</link>
+      <link>https://luxemthefez.github.io/tags/android/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://examplesite.com/tags/android/</guid>
+      <guid>https://luxemthefez.github.io/tags/android/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Apprentissage collaboratif</title>
-      <link>https://examplesite.com/tags/apprentissage-collaboratif/</link>
+      <link>https://luxemthefez.github.io/tags/apprentissage-collaboratif/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://examplesite.com/tags/apprentissage-collaboratif/</guid>
+      <guid>https://luxemthefez.github.io/tags/apprentissage-collaboratif/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Augmented Reality</title>
-      <link>https://examplesite.com/tags/augmented-reality/</link>
+      <link>https://luxemthefez.github.io/tags/augmented-reality/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://examplesite.com/tags/augmented-reality/</guid>
+      <guid>https://luxemthefez.github.io/tags/augmented-reality/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Automation</title>
-      <link>https://examplesite.com/tags/automation/</link>
+      <link>https://luxemthefez.github.io/tags/automation/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://examplesite.com/tags/automation/</guid>
+      <guid>https://luxemthefez.github.io/tags/automation/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Docker</title>
-      <link>https://examplesite.com/tags/docker/</link>
+      <link>https://luxemthefez.github.io/tags/docker/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://examplesite.com/tags/docker/</guid>
+      <guid>https://luxemthefez.github.io/tags/docker/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Flask</title>
-      <link>https://examplesite.com/tags/flask/</link>
+      <link>https://luxemthefez.github.io/tags/flask/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://examplesite.com/tags/flask/</guid>
+      <guid>https://luxemthefez.github.io/tags/flask/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Flask-Restful</title>
-      <link>https://examplesite.com/tags/flask-restful/</link>
+      <link>https://luxemthefez.github.io/tags/flask-restful/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://examplesite.com/tags/flask-restful/</guid>
+      <guid>https://luxemthefez.github.io/tags/flask-restful/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Game Jam</title>
-      <link>https://examplesite.com/tags/game-jam/</link>
+      <link>https://luxemthefez.github.io/tags/game-jam/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://examplesite.com/tags/game-jam/</guid>
+      <guid>https://luxemthefez.github.io/tags/game-jam/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Git</title>
-      <link>https://examplesite.com/tags/git/</link>
+      <link>https://luxemthefez.github.io/tags/git/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://examplesite.com/tags/git/</guid>
+      <guid>https://luxemthefez.github.io/tags/git/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Godot</title>
-      <link>https://examplesite.com/tags/godot/</link>
+      <link>https://luxemthefez.github.io/tags/godot/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://examplesite.com/tags/godot/</guid>
+      <guid>https://luxemthefez.github.io/tags/godot/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Laravel</title>
-      <link>https://examplesite.com/tags/laravel/</link>
+      <link>https://luxemthefez.github.io/tags/laravel/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://examplesite.com/tags/laravel/</guid>
+      <guid>https://luxemthefez.github.io/tags/laravel/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Linux</title>
-      <link>https://examplesite.com/tags/linux/</link>
+      <link>https://luxemthefez.github.io/tags/linux/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://examplesite.com/tags/linux/</guid>
+      <guid>https://luxemthefez.github.io/tags/linux/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Microsoft Hololens</title>
-      <link>https://examplesite.com/tags/microsoft-hololens/</link>
+      <link>https://luxemthefez.github.io/tags/microsoft-hololens/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://examplesite.com/tags/microsoft-hololens/</guid>
+      <guid>https://luxemthefez.github.io/tags/microsoft-hololens/</guid>
       <description></description>
     </item>
     
     <item>
       <title>MongoDB</title>
-      <link>https://examplesite.com/tags/mongodb/</link>
+      <link>https://luxemthefez.github.io/tags/mongodb/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://examplesite.com/tags/mongodb/</guid>
+      <guid>https://luxemthefez.github.io/tags/mongodb/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Multiplayer</title>
-      <link>https://examplesite.com/tags/multiplayer/</link>
+      <link>https://luxemthefez.github.io/tags/multiplayer/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://examplesite.com/tags/multiplayer/</guid>
+      <guid>https://luxemthefez.github.io/tags/multiplayer/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Networking</title>
-      <link>https://examplesite.com/tags/networking/</link>
+      <link>https://luxemthefez.github.io/tags/networking/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://examplesite.com/tags/networking/</guid>
+      <guid>https://luxemthefez.github.io/tags/networking/</guid>
       <description></description>
     </item>
     
     <item>
       <title>PHP</title>
-      <link>https://examplesite.com/tags/php/</link>
+      <link>https://luxemthefez.github.io/tags/php/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://examplesite.com/tags/php/</guid>
+      <guid>https://luxemthefez.github.io/tags/php/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Python</title>
-      <link>https://examplesite.com/tags/python/</link>
+      <link>https://luxemthefez.github.io/tags/python/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://examplesite.com/tags/python/</guid>
+      <guid>https://luxemthefez.github.io/tags/python/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Unity</title>
-      <link>https://examplesite.com/tags/unity/</link>
+      <link>https://luxemthefez.github.io/tags/unity/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://examplesite.com/tags/unity/</guid>
+      <guid>https://luxemthefez.github.io/tags/unity/</guid>
       <description></description>
     </item>
     
     <item>
       <title>University Project</title>
-      <link>https://examplesite.com/tags/university-project/</link>
+      <link>https://luxemthefez.github.io/tags/university-project/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://examplesite.com/tags/university-project/</guid>
+      <guid>https://luxemthefez.github.io/tags/university-project/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Unreal Engine 5</title>
-      <link>https://examplesite.com/tags/unreal-engine-5/</link>
+      <link>https://luxemthefez.github.io/tags/unreal-engine-5/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://examplesite.com/tags/unreal-engine-5/</guid>
+      <guid>https://luxemthefez.github.io/tags/unreal-engine-5/</guid>
       <description></description>
     </item>
     
     <item>
       <title>VueJS</title>
-      <link>https://examplesite.com/tags/vuejs/</link>
+      <link>https://luxemthefez.github.io/tags/vuejs/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://examplesite.com/tags/vuejs/</guid>
+      <guid>https://luxemthefez.github.io/tags/vuejs/</guid>
       <description></description>
     </item>
     
     <item>
       <title>wear-os</title>
-      <link>https://examplesite.com/tags/wear-os/</link>
+      <link>https://luxemthefez.github.io/tags/wear-os/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://examplesite.com/tags/wear-os/</guid>
+      <guid>https://luxemthefez.github.io/tags/wear-os/</guid>
       <description></description>
     </item>
     
     <item>
       <title>WebSocket</title>
-      <link>https://examplesite.com/tags/websocket/</link>
+      <link>https://luxemthefez.github.io/tags/websocket/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://examplesite.com/tags/websocket/</guid>
+      <guid>https://luxemthefez.github.io/tags/websocket/</guid>
       <description></description>
     </item>
     
