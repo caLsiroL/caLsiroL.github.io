@@ -1,4 +1,4 @@
-baseURL: "https://examplesite.com/"
+baseURL: "https://luxemthefez.github.io"
 languageCode: fr-fr
 title: Loris Lacerenza
 theme: ["hugo-video", "PaperMod"]
