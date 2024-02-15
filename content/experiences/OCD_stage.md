@@ -9,11 +9,10 @@ weight: 302
 --- 
 
 ### Description
-J'ai eu la chance d'effectuer mon stage de Master 1 chez **Orange Cyberdefense** dans lequel j'ai pu effectuer les taches suivantes : 
+J'ai eu la chance d'effectuer mon stage de Master 1 chez **Orange Cyberdefense** dans lequel j'ai pu effectuer les tâches suivantes : 
 
 - Création d'un module/micro-service de facturation semi-automatisé dans le logiciel interne existant
 - Veille technique et recherche de solution technique/librairie pour les projets en cours
 - Création de maquette avec figma pour les différents outils internes du service  
-- Mise en place et configuration d'un serveur de developpement 
-- Gestion du déployment de application avec docker et docker-compose
-
+- Mise en place et configuration d'un serveur de développement 
+- Gestion du déploiement d'application avec docker et docker-compose

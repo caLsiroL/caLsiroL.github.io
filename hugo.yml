@@ -54,7 +54,8 @@ params:
   profileMode:
     enabled: true # needs to be explicitly set
     title: Loris Lacerenza
-    subtitle: "Salut l'ekip"
+    subtitle: "Développeur de jeux vidéo, Passionné par l’informatique, les sciences, les jeux, vidéo et de société, ainsi que par les nouvelles technologies. J’aime aussi la natation, le théâtre, l’escalade et le milieu de l’audiovisuel. Je cherche un CDI ou un stage de 4 mois, à partir de mai dans le développement vidéoludique, 3D ou XR. 
+"
     imageUrl: "home/formal-pic-small.jpg"
     imageWidth: 120
     imageHeight: 120
@@ -65,7 +66,8 @@ params:
   socialIcons:
     - name: github
       url: "https://github.com/"
-
+    - name: linkedin
+      url: "https://www.linkedin.com/in/loris-lacerenza-9543a7198/"
 
   cover:
     hidden: false # hide everywhere but not in structured data
@@ -97,14 +99,10 @@ menu:
       name: Projects
       url: /projects
       weight: 30
-    - identifier: search
-      name: Search
-      url: /search
-      weight: 40
     - identifier: tags
       name: Tags
       url: /tags/
-      weight: 50
+      weight: 40
 
 # markup:
 #   goldmark:

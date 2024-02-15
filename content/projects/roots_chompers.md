@@ -20,14 +20,14 @@ J'ai participé avec 5 amis à ma première game jam durant la GGJ 2023. C'étai
 
 ## Réalisation
 
-Nous avons créer un jeu mélangeant Tower Defense et clicker nommé Roots Chompers. Le thème étant `Root`, nous avons pris le thème de la jam au pied de la lettre, en effet l'objectif du jeu est de proteger la racine de la vie de 3 petites créatures qui nous attaque : 
+Nous avons créer un jeu mélangeant Tower Defense et clicker nommé Roots Chompers. Le thème étant `Root`, nous avons pris le thème de la jam au pied de la lettre, en effet l'objectif du jeu est de proteger la racine de la vie de 3 petites créatures qui nous attaquent : 
 
 ![Image de ennemies](/projects/roots_chompers/img1.png)
 
-Nous avons les ennemies suivant :
-- Un ennemie normal
-- Un ennemie rapide
-- Un enemie tanky
+Nous avons les ennemis suivants :
+- Un ennemi normal
+- Un ennemi rapide
+- Un ennemi tanky
 
 À l'aide de trois plantes à notre disposition : 
 
@@ -35,11 +35,11 @@ Nous avons les ennemies suivant :
 
 Les plantes à notre disposition pour nous défendre sont :
 - Un tournesol qui tire de loin, la plante de base
-- Un cactus qui frappe fort mais lentement au corps-à-corps
+- Un cactus qui frappe fort, mais lentement au corps-à-corps
 - Une fleur qui va venir stun les ennemies
 
 
 ## Conclusion
-J'ai adoré participer à cette game jam, elle m'a permis de beaucoup progresser en Unreal. J'ai hâte de participer à la prochaine édition 
+J'ai adoré participer à cette game jam, elle m'a permis de beaucoup progresser en Unreal. J'ai hâte de participer à la prochaine édition. 
 
 ![Image de la map](/projects/roots_chompers/img3.png)
