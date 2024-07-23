@@ -21,6 +21,15 @@
     </item>
     
     <item>
+      <title>Agile</title>
+      <link>https://luxemthefez.github.io/tags/agile/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://luxemthefez.github.io/tags/agile/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Android</title>
       <link>https://luxemthefez.github.io/tags/android/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -57,6 +66,33 @@
     </item>
     
     <item>
+      <title>Blueprint</title>
+      <link>https://luxemthefez.github.io/tags/blueprint/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://luxemthefez.github.io/tags/blueprint/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Blueprints</title>
+      <link>https://luxemthefez.github.io/tags/blueprints/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://luxemthefez.github.io/tags/blueprints/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>C&#43;&#43;</title>
+      <link>https://luxemthefez.github.io/tags/c&#43;&#43;/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://luxemthefez.github.io/tags/c&#43;&#43;/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Docker</title>
       <link>https://luxemthefez.github.io/tags/docker/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -84,6 +120,15 @@
     </item>
     
     <item>
+      <title>Game Design</title>
+      <link>https://luxemthefez.github.io/tags/game-design/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://luxemthefez.github.io/tags/game-design/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Game Jam</title>
       <link>https://luxemthefez.github.io/tags/game-jam/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -93,11 +138,29 @@
     </item>
     
     <item>
+      <title>GGJ</title>
+      <link>https://luxemthefez.github.io/tags/ggj/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://luxemthefez.github.io/tags/ggj/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Git</title>
       <link>https://luxemthefez.github.io/tags/git/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://luxemthefez.github.io/tags/git/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Global Game Jam</title>
+      <link>https://luxemthefez.github.io/tags/global-game-jam/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://luxemthefez.github.io/tags/global-game-jam/</guid>
       <description></description>
     </item>
     
@@ -125,6 +188,15 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://luxemthefez.github.io/tags/linux/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Metahuman</title>
+      <link>https://luxemthefez.github.io/tags/metahuman/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://luxemthefez.github.io/tags/metahuman/</guid>
       <description></description>
     </item>
     
@@ -183,6 +255,42 @@
     </item>
     
     <item>
+      <title>QA</title>
+      <link>https://luxemthefez.github.io/tags/qa/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://luxemthefez.github.io/tags/qa/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Refactoring</title>
+      <link>https://luxemthefez.github.io/tags/refactoring/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://luxemthefez.github.io/tags/refactoring/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>UE</title>
+      <link>https://luxemthefez.github.io/tags/ue/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://luxemthefez.github.io/tags/ue/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>UE5</title>
+      <link>https://luxemthefez.github.io/tags/ue5/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://luxemthefez.github.io/tags/ue5/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Unity</title>
       <link>https://luxemthefez.github.io/tags/unity/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -201,11 +309,29 @@
     </item>
     
     <item>
+      <title>Unreal Engine</title>
+      <link>https://luxemthefez.github.io/tags/unreal-engine/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://luxemthefez.github.io/tags/unreal-engine/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Unreal Engine 5</title>
       <link>https://luxemthefez.github.io/tags/unreal-engine-5/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://luxemthefez.github.io/tags/unreal-engine-5/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>VR</title>
+      <link>https://luxemthefez.github.io/tags/vr/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://luxemthefez.github.io/tags/vr/</guid>
       <description></description>
     </item>
     

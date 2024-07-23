@@ -2,6 +2,12 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://luxemthefez.github.io/projects/erinyes/</loc>
+  </url><url>
+    <loc>https://luxemthefez.github.io/projects/monsieur-sourire/</loc>
+  </url><url>
+    <loc>https://luxemthefez.github.io/projects/chaos-kitchen/</loc>
+  </url><url>
     <loc>https://luxemthefez.github.io/projects/roots_chompers/</loc>
   </url><url>
     <loc>https://luxemthefez.github.io/projects/geo-electrololens/</loc>
@@ -9,6 +15,8 @@
     <loc>https://luxemthefez.github.io/projects/bbvr/</loc>
   </url><url>
     <loc>https://luxemthefez.github.io/projects/dixit/</loc>
+  </url><url>
+    <loc>https://luxemthefez.github.io/experiences/jodia/</loc>
   </url><url>
     <loc>https://luxemthefez.github.io/experiences/ocd_alternance/</loc>
   </url><url>
@@ -20,6 +28,8 @@
   </url><url>
     <loc>https://luxemthefez.github.io/tags/3d/</loc>
   </url><url>
+    <loc>https://luxemthefez.github.io/tags/agile/</loc>
+  </url><url>
     <loc>https://luxemthefez.github.io/tags/android/</loc>
   </url><url>
     <loc>https://luxemthefez.github.io/tags/apprentissage-collaboratif/</loc>
@@ -27,6 +37,12 @@
     <loc>https://luxemthefez.github.io/tags/augmented-reality/</loc>
   </url><url>
     <loc>https://luxemthefez.github.io/tags/automation/</loc>
+  </url><url>
+    <loc>https://luxemthefez.github.io/tags/blueprint/</loc>
+  </url><url>
+    <loc>https://luxemthefez.github.io/tags/blueprints/</loc>
+  </url><url>
+    <loc>https://luxemthefez.github.io/tags/c&#43;&#43;/</loc>
   </url><url>
     <loc>https://luxemthefez.github.io/categories/</loc>
   </url><url>
@@ -38,9 +54,15 @@
   </url><url>
     <loc>https://luxemthefez.github.io/tags/flask-restful/</loc>
   </url><url>
+    <loc>https://luxemthefez.github.io/tags/game-design/</loc>
+  </url><url>
     <loc>https://luxemthefez.github.io/tags/game-jam/</loc>
   </url><url>
+    <loc>https://luxemthefez.github.io/tags/ggj/</loc>
+  </url><url>
     <loc>https://luxemthefez.github.io/tags/git/</loc>
+  </url><url>
+    <loc>https://luxemthefez.github.io/tags/global-game-jam/</loc>
   </url><url>
     <loc>https://luxemthefez.github.io/tags/godot/</loc>
   </url><url>
@@ -49,6 +71,8 @@
     <loc>https://luxemthefez.github.io/tags/linux/</loc>
   </url><url>
     <loc>https://luxemthefez.github.io/</loc>
+  </url><url>
+    <loc>https://luxemthefez.github.io/tags/metahuman/</loc>
   </url><url>
     <loc>https://luxemthefez.github.io/tags/microsoft-hololens/</loc>
   </url><url>
@@ -64,13 +88,25 @@
   </url><url>
     <loc>https://luxemthefez.github.io/tags/python/</loc>
   </url><url>
+    <loc>https://luxemthefez.github.io/tags/qa/</loc>
+  </url><url>
+    <loc>https://luxemthefez.github.io/tags/refactoring/</loc>
+  </url><url>
     <loc>https://luxemthefez.github.io/tags/</loc>
+  </url><url>
+    <loc>https://luxemthefez.github.io/tags/ue/</loc>
+  </url><url>
+    <loc>https://luxemthefez.github.io/tags/ue5/</loc>
   </url><url>
     <loc>https://luxemthefez.github.io/tags/unity/</loc>
   </url><url>
     <loc>https://luxemthefez.github.io/tags/university-project/</loc>
   </url><url>
+    <loc>https://luxemthefez.github.io/tags/unreal-engine/</loc>
+  </url><url>
     <loc>https://luxemthefez.github.io/tags/unreal-engine-5/</loc>
+  </url><url>
+    <loc>https://luxemthefez.github.io/tags/vr/</loc>
   </url><url>
     <loc>https://luxemthefez.github.io/tags/vuejs/</loc>
   </url><url>

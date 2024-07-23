@@ -12,6 +12,33 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>fr-fr</language><atom:link href="https://luxemthefez.github.io/projects/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Erinyes (Gamagora Games Show)</title>
+      <link>https://luxemthefez.github.io/projects/erinyes/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://luxemthefez.github.io/projects/erinyes/</guid>
+      <description>Projet de fin d&amp;#39;année. Création d&amp;#39;un jeu d&amp;#39;énigme et de narration utilisant metahuman et le motion capture</description>
+    </item>
+    
+    <item>
+      <title>Monsieur Sourire (Global Game Jam 2024)</title>
+      <link>https://luxemthefez.github.io/projects/monsieur-sourire/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://luxemthefez.github.io/projects/monsieur-sourire/</guid>
+      <description>Jeu de jam dont le thème était make me laugh</description>
+    </item>
+    
+    <item>
+      <title>Chaos Kitchen (POC de Jeu VR)</title>
+      <link>https://luxemthefez.github.io/projects/chaos-kitchen/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://luxemthefez.github.io/projects/chaos-kitchen/</guid>
+      <description>Projet universitaire création d&amp;#39;un jeu au gameplay asymétrique inspiré de BTD6 </description>
+    </item>
+    
+    <item>
       <title>Roots Chompers</title>
       <link>https://luxemthefez.github.io/projects/roots_chompers/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -30,7 +57,7 @@
     </item>
     
     <item>
-      <title>Jeu VR au gameplay asymétrique</title>
+      <title>BigBallonVR (Jeu VR multijoueur au gameplay asymétrique)</title>
       <link>https://luxemthefez.github.io/projects/bbvr/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       

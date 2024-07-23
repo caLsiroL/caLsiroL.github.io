@@ -12,6 +12,15 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>fr-fr</language><atom:link href="https://luxemthefez.github.io/experiences/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Gameplay Programmer et Intervenant QA</title>
+      <link>https://luxemthefez.github.io/experiences/jodia/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://luxemthefez.github.io/experiences/jodia/</guid>
+      <description>Jodi-a Games</description>
+    </item>
+    
+    <item>
       <title>Alternant Ingénieur de production fullstack</title>
       <link>https://luxemthefez.github.io/experiences/ocd_alternance/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
