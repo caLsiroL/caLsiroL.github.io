@@ -1,5 +1,5 @@
 ---
-title: "Jeu VR au gameplay asymétrique"
+title: "BigBallonVR (Jeu VR multijoueur au gameplay asymétrique)"
 description: "Projet universitaire création d'un jeu multijoueur tower defense au gameplay asymétrique inspiré de BTD6 "
 dateString: Septembre 2021 - Janvier 2022
 draft: false
