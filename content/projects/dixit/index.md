@@ -9,7 +9,7 @@ cover:
     image: "/projects/dixit/cover.png"
 ---
 
-## 🔗 [Github de Ark'Dixit](https://github.com/LuxemTheFez/ARKED-Dixit-GODOT)
+## 🔗 [Github de Ark'Dixit](https://github.com/caLsiroL/ARKED-Dixit-GODOT)
 
 ## Introduction
 Dans le cadre de ma licence 3, nous avions un projet de 4-5 mois à réaliser. Avec 4 autres camarades, nous avons eu la possibilité de produire une preuve de concept de numérisation en 3D du jeu de société Dixit. L'objectif derrière ce projet était testé la création d'application exploitant les capacités de la salle Ark-Inseec, une salle de classe du futur équipée de 5 murs tactiles géants.

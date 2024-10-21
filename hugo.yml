@@ -1,4 +1,4 @@
-baseURL: "https://luxemthefez.github.io"
+baseURL: "https://calsirol.github.io"
 languageCode: fr-fr
 title: Loris Lacerenza
 theme: ["hugo-video", "PaperMod"]
@@ -54,8 +54,7 @@ params:
   profileMode:
     enabled: true # needs to be explicitly set
     title: Loris Lacerenza
-    subtitle: "Développeur de jeux vidéo, Passionné par l’informatique, les sciences, les jeux, vidéo et de société, ainsi que par les nouvelles technologies. J’aime aussi la natation, le théâtre, l’escalade et le milieu de l’audiovisuel. Je cherche un CDI ou un stage de minimum 4 mois, à partir de mi-septembre dans le développement vidéoludique, 3D ou XR. 
-"
+    subtitle: "Développeur de jeux vidéo, Passionné par l’informatique, les sciences, les jeux, vidéo et de société, ainsi que par les nouvelles technologies. J’aime aussi la natation, le théâtre, l’escalade et le milieu de l’audiovisuel. Je cherche un CDI ou un stage (de minimum 4 mois) dès que possible dans le développement vidéoludique, 3D ou XR."
     imageUrl: "home/formal-pic-small.jpg"
     imageWidth: 120
     imageHeight: 120
@@ -65,7 +64,7 @@ params:
 
   socialIcons:
     - name: github
-      url: "https://github.com/"
+      url: "https://github.com/caLsiroL/"
     - name: linkedin
       url: "https://www.linkedin.com/in/loris-lacerenza-9543a7198/"
 

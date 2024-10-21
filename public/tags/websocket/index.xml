@@ -2,30 +2,30 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>WebSocket on Loris Lacerenza</title>
-    <link>https://luxemthefez.github.io/tags/websocket/</link>
+    <link>https://calsirol.github.io/tags/websocket/</link>
     <description>Recent content in WebSocket on Loris Lacerenza</description>
     <image>
       <title>Loris Lacerenza</title>
-      <url>https://luxemthefez.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
-      <link>https://luxemthefez.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+      <url>https://calsirol.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://calsirol.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <language>fr-fr</language><atom:link href="https://luxemthefez.github.io/tags/websocket/index.xml" rel="self" type="application/rss+xml" />
+    <language>fr-fr</language><atom:link href="https://calsirol.github.io/tags/websocket/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Assistant Ingénieur - CDD</title>
-      <link>https://luxemthefez.github.io/experiences/liris_cdd/</link>
+      <link>https://calsirol.github.io/experiences/liris_cdd/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://luxemthefez.github.io/experiences/liris_cdd/</guid>
+      <guid>https://calsirol.github.io/experiences/liris_cdd/</guid>
       <description>CNRS LIRIS (Learning LAB IUT USMB)</description>
     </item>
     
     <item>
       <title>Stage Assistant Ingénieur</title>
-      <link>https://luxemthefez.github.io/experiences/liris_stage/</link>
+      <link>https://calsirol.github.io/experiences/liris_stage/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://luxemthefez.github.io/experiences/liris_stage/</guid>
+      <guid>https://calsirol.github.io/experiences/liris_stage/</guid>
       <description>CNRS LIRIS (Learning LAB IUT USMB)</description>
     </item>
     

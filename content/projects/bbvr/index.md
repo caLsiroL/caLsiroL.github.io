@@ -9,8 +9,8 @@ cover:
     image: "/projects/bbvr/cover.png"
 ---
 
-## 🔗 [Github de BigBalloonVR](https://github.com/LuxemTheFez/BigBalloonVR)
-## 🔗 [Github du server dédié de BigBalloonVR](https://github.com/LuxemTheFez/ServerBigBalloon)
+## 🔗 [Github de BigBalloonVR](https://github.com/caLsiroL/BigBalloonVR)
+## 🔗 [Github du server dédié de BigBalloonVR](https://github.com/caLsiroL/ServerBigBalloon)
 
 ## Introduction
 Dans le cadre d'un cours de Master 1 de développement mobile, nous avions à développer, à raison de quelques heures par semaines, sur 3-4 mois une application avec pour contrainte l'asymétrie. En partant de ce postulat nous avons choisit avec l'un de mes camarades de créer un jeu multijoueur inspiré du célèbre jeu de tower defense, Bloons Tower defense. Afin de respecter la contrainte d'asymétrie, nous sommes partis sur un duel Mobile vs Vr où l'un des joueurs incarne la "fabrique de ballon" et l'autre un défenseur qui doit les exploser.

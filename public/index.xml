@@ -2,120 +2,120 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Loris Lacerenza</title>
-    <link>https://luxemthefez.github.io/</link>
+    <link>https://calsirol.github.io/</link>
     <description>Recent content on Loris Lacerenza</description>
     <image>
       <title>Loris Lacerenza</title>
-      <url>https://luxemthefez.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
-      <link>https://luxemthefez.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+      <url>https://calsirol.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://calsirol.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <language>fr-fr</language><atom:link href="https://luxemthefez.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <language>fr-fr</language><atom:link href="https://calsirol.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Erinyes (Gamagora Games Show)</title>
-      <link>https://luxemthefez.github.io/projects/erinyes/</link>
+      <link>https://calsirol.github.io/projects/erinyes/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://luxemthefez.github.io/projects/erinyes/</guid>
+      <guid>https://calsirol.github.io/projects/erinyes/</guid>
       <description>Projet de fin d&amp;#39;année. Création d&amp;#39;un jeu d&amp;#39;énigme et de narration utilisant metahuman et le motion capture</description>
     </item>
     
     <item>
       <title>Monsieur Sourire (Global Game Jam 2024)</title>
-      <link>https://luxemthefez.github.io/projects/monsieur-sourire/</link>
+      <link>https://calsirol.github.io/projects/monsieur-sourire/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://luxemthefez.github.io/projects/monsieur-sourire/</guid>
+      <guid>https://calsirol.github.io/projects/monsieur-sourire/</guid>
       <description>Jeu de jam dont le thème était make me laugh</description>
     </item>
     
     <item>
       <title>Chaos Kitchen (POC de Jeu VR)</title>
-      <link>https://luxemthefez.github.io/projects/chaos-kitchen/</link>
+      <link>https://calsirol.github.io/projects/chaos-kitchen/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://luxemthefez.github.io/projects/chaos-kitchen/</guid>
+      <guid>https://calsirol.github.io/projects/chaos-kitchen/</guid>
       <description>Projet universitaire création d&amp;#39;un jeu au gameplay asymétrique inspiré de BTD6 </description>
     </item>
     
     <item>
       <title>Roots Chompers</title>
-      <link>https://luxemthefez.github.io/projects/roots_chompers/</link>
+      <link>https://calsirol.github.io/projects/roots_chompers/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://luxemthefez.github.io/projects/roots_chompers/</guid>
+      <guid>https://calsirol.github.io/projects/roots_chompers/</guid>
       <description>Jeu de Jam réalisé durant la Global Game Jam 2023</description>
     </item>
     
     <item>
       <title>Jeu sérieux en réalité augmenté pour le casque Microsoft Hololens 2</title>
-      <link>https://luxemthefez.github.io/projects/geo-electrololens/</link>
+      <link>https://calsirol.github.io/projects/geo-electrololens/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://luxemthefez.github.io/projects/geo-electrololens/</guid>
+      <guid>https://calsirol.github.io/projects/geo-electrololens/</guid>
       <description>Projet universitaire </description>
     </item>
     
     <item>
       <title>BigBallonVR (Jeu VR multijoueur au gameplay asymétrique)</title>
-      <link>https://luxemthefez.github.io/projects/bbvr/</link>
+      <link>https://calsirol.github.io/projects/bbvr/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://luxemthefez.github.io/projects/bbvr/</guid>
+      <guid>https://calsirol.github.io/projects/bbvr/</guid>
       <description>Projet universitaire création d&amp;#39;un jeu multijoueur tower defense au gameplay asymétrique inspiré de BTD6 </description>
     </item>
     
     <item>
       <title>Numérisation du jeu de société Dixit</title>
-      <link>https://luxemthefez.github.io/projects/dixit/</link>
+      <link>https://calsirol.github.io/projects/dixit/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://luxemthefez.github.io/projects/dixit/</guid>
+      <guid>https://calsirol.github.io/projects/dixit/</guid>
       <description>Projet universitaire adaptation en 3D et en multijoueur du célèbre jeu de société Dixit</description>
     </item>
     
     <item>
       <title>Gameplay Programmer et Intervenant QA</title>
-      <link>https://luxemthefez.github.io/experiences/jodia/</link>
+      <link>https://calsirol.github.io/experiences/jodia/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://luxemthefez.github.io/experiences/jodia/</guid>
-      <description>Jodi-a Games</description>
+      <guid>https://calsirol.github.io/experiences/jodia/</guid>
+      <description>Jodi-a Editions</description>
     </item>
     
     <item>
       <title>Alternant Ingénieur de production fullstack</title>
-      <link>https://luxemthefez.github.io/experiences/ocd_alternance/</link>
+      <link>https://calsirol.github.io/experiences/ocd_alternance/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://luxemthefez.github.io/experiences/ocd_alternance/</guid>
+      <guid>https://calsirol.github.io/experiences/ocd_alternance/</guid>
       <description>Orange Cyberdefense (Campus Cyber, Puteaux)</description>
     </item>
     
     <item>
       <title>Stagiaire Ingénieur de production fullstack</title>
-      <link>https://luxemthefez.github.io/experiences/ocd_stage/</link>
+      <link>https://calsirol.github.io/experiences/ocd_stage/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://luxemthefez.github.io/experiences/ocd_stage/</guid>
+      <guid>https://calsirol.github.io/experiences/ocd_stage/</guid>
       <description>Orange Cyberdefense (Siège social, Nanterre)</description>
     </item>
     
     <item>
       <title>Assistant Ingénieur - CDD</title>
-      <link>https://luxemthefez.github.io/experiences/liris_cdd/</link>
+      <link>https://calsirol.github.io/experiences/liris_cdd/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://luxemthefez.github.io/experiences/liris_cdd/</guid>
+      <guid>https://calsirol.github.io/experiences/liris_cdd/</guid>
       <description>CNRS LIRIS (Learning LAB IUT USMB)</description>
     </item>
     
     <item>
       <title>Stage Assistant Ingénieur</title>
-      <link>https://luxemthefez.github.io/experiences/liris_stage/</link>
+      <link>https://calsirol.github.io/experiences/liris_stage/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://luxemthefez.github.io/experiences/liris_stage/</guid>
+      <guid>https://calsirol.github.io/experiences/liris_stage/</guid>
       <description>CNRS LIRIS (Learning LAB IUT USMB)</description>
     </item>
     

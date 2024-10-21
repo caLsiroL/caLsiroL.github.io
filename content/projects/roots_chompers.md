@@ -9,7 +9,7 @@ cover:
     image: "/projects/roots_chompers/cover.png"
 ---
 
-## 🔗 [Github de Roots Chompers](https://github.com/LuxemTheFez/Roots-Chompers)
+## 🔗 [Github de Roots Chompers](https://github.com/caLsiroL/Roots-Chompers)
 ## 🔗 [Page GGJ de Roots Chompers](https://v3.globalgamejam.org/2023/games/roots-chompers-2)
 ## 🔗 [Page itch.io de Roots Chompers](https://loulaty.itch.io/root-chomper)
 
