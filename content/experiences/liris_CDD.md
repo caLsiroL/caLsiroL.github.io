@@ -1,7 +1,7 @@
 ---
 title: "Assistant Ingénieur - CDD"
 description: "CNRS LIRIS (Learning LAB IUT USMB)"
-dateString: Février 2022 - Mai 2022
+dateString: Février - Mai 2022
 draft: false
 tags: ["Python", "Flask", "Flask-Restful", "VueJS", "Git", "Apprentissage collaboratif", "MongoDB", "WebSocket"]
 showToc: false

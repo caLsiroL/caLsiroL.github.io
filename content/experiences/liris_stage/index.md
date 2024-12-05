@@ -1,7 +1,7 @@
 ---
 title: "Stage Assistant Ingénieur"
 description: "CNRS LIRIS (Learning LAB IUT USMB)"
-dateString: Février 2022 - Mai 2022
+dateString: Juin - Août 2021
 draft: false
 tags: ["Python", "wear-os", "Godot", "Networking", "Git", "Apprentissage collaboratif", "WebSocket"]
 showToc: false
